@@ -29,8 +29,6 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
-// INTENTIONALLY UNCOMPILABLE!
-
 /** 
  * The HelloWorldApp class implements an application that
  * simply prints "Hello World!" to standard output.
