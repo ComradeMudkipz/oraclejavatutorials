@@ -10,7 +10,7 @@ class ArrayDemo {
         anArray[0] = 100;
         // initialize second element
         anArray[1] = 200;
-        //and so forth
+        // and so forth
         anArray[2] = 300;
         anArray[3] = 400;
         anArray[4] = 500;
