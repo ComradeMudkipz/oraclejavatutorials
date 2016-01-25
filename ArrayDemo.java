@@ -1,25 +1,13 @@
 class ArrayDemo {
     public static void main(String[] args) {
-        // delcares an array of integers
-        int[] anArray;
-
-        // allocates the memory of 10 integers
-        anArray = new int[10];
-
-        // initialize first element
-        anArray[0] = 100;
-        // initialize second element
-        anArray[1] = 200;
-        // and so forth
-        anArray[2] = 300;
-        anArray[3] = 400;
-        anArray[4] = 500;
-        anArray[5] = 600;
-        anArray[6] = 700;
-        anArray[7] = 800;
-        anArray[8] = 900;
-        anArray[9] = 1000;
-
+        // delcares and initializs an array of integers
+        // with 10 elements
+        int[] anArray = {
+            100, 200, 300,
+            400, 500, 600,
+            700, 800, 900, 100
+            };
+         
         System.out.println("Element at index 0: "
                 + anArray[0]);
         System.out.println("Element at index 1: "
