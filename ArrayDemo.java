@@ -1,6 +1,6 @@
 class ArrayDemo {
     public static void main(String[] args) {
-        // delcares and initializs an array of integers
+        // declares and initializes an array of integers
         // with 10 elements
         int[] anArray = {
             100, 200, 300,
