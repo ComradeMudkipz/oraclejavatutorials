@@ -1,6 +1,6 @@
 class ArithmeticDemo {
 
-    public static void main (String[] args) {
+    public static void main(String[] args) {
 
         int result = 1 + 2;
         // result is now 3
